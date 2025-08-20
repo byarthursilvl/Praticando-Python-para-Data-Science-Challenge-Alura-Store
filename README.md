@@ -1,4 +1,4 @@
-# Challenge-TelecomX
+ref# Challenge-TelecomX
 O principal objetivo deste projeto é desenvolver minhas habilidades em ETL (Extract, Transform, Load) com Python
 
 # :computer: Análise de Evasão de Clientes (Churn Analysis) :chart_with_upwards_trend:
@@ -70,4 +70,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 
 
 Autor
-Filipe Silva (https://github.com/LipeSilva83)]
+Filipe Silva (https://github.com/LipeSilva83)] reformule como eu friaa
