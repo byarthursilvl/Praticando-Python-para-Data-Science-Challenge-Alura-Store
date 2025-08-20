@@ -64,10 +64,3 @@ As principais descobertas da análise indicam que os clientes com maior probabil
   
  ![Numpy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 
-
-## Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
-
-
-Autor
-Filipe Silva (https://github.com/LipeSilva83)] reformule como eu friaa
